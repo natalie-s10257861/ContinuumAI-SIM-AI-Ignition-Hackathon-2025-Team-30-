@@ -10,7 +10,7 @@ Build Tool: Vite
 Styling: Tailwind CSS
 Backend/Database: Supabase
 
-Link to platform:
+Link to platform: https://stackblitz.com/edit/sb1-ls9rfsuk?file=index.html
 
 🚀 App Capabilities:
 1. AI-Powered Content Creation
