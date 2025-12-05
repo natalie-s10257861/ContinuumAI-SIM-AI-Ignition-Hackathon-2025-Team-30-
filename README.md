@@ -11,3 +11,20 @@ Styling: Tailwind CSS
 Backend/Database: Supabase
 
 Link to platform: https://app-dashboard-design-0auq.bolt.host/
+
+🚀 App Capabilities:
+1. AI-Powered Content Creation
+AI Copywriter: Generate captions and text content automatically (AICopywriter.tsx).
+AI Image Generator: Create visuals directly within the app (AllImageGenerator.tsx).
+AI Assistant Chat: A conversational helper to brainstorm ideas (AIAssistantChat.tsx).
+Smart Content Planner: AI-driven strategy for planning upcoming posts (AIContentPlanner.tsx).
+2. Social Media Management
+Multi-Platform Support: Connect and manage multiple social accounts (SocialAccountConnect.tsx, PlatformSelector.tsx).
+Live Previews: See exactly how posts will look on different networks (Instagram, LinkedIn, etc.) before publishing (PlatformPreview.tsx).
+Advanced Scheduling: A visual calendar view to organize and schedule content (CalendarView.tsx).
+3. Media & Brand Tools
+Brand Kit: Save brand guidelines (logos, colors, voice) to keep content consistent (BrandSetup.tsx).
+Built-in Image Editor: Crop and adjust images without leaving the dashboard (ImageCropEditor.tsx).
+4. Workflow & Team Collaboration
+Approval Workflows: Submit posts for review before they go live (ApprovalWorkflow.tsx).
+Secure Authentication: User login and signup functionality (AuthForm.tsx).
