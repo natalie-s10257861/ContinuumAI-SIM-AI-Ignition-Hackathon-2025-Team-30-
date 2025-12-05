@@ -10,7 +10,7 @@ Build Tool: Vite
 Styling: Tailwind CSS
 Backend/Database: Supabase
 
-Link to platform: https://app-dashboard-design-0auq.bolt.host/
+Link to platform:
 
 🚀 App Capabilities:
 1. AI-Powered Content Creation
@@ -28,3 +28,4 @@ Built-in Image Editor: Crop and adjust images without leaving the dashboard (Ima
 4. Workflow & Team Collaboration
 Approval Workflows: Submit posts for review before they go live (ApprovalWorkflow.tsx).
 Secure Authentication: User login and signup functionality (AuthForm.tsx).
+
